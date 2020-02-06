@@ -1,5 +1,5 @@
 ---
-- hosts: CrowdStrike
+- hosts: VMtool
 
   remote_user: root
 
